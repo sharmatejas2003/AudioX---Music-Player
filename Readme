@@ -1,0 +1,30 @@
+# Music Player App
+
+A simple music player app for Android that allows users to play, pause, and navigate between songs, as well as adjust the volume.
+
+## Features
+
+- Play, pause, and stop music
+- Navigate to the next and previous songs
+- Volume control with a seek bar
+- Track duration display and control
+- User-friendly interface
+
+## Technologies Used
+
+- Android SDK
+- Java
+- XML for layout design
+
+## Getting Started
+
+### Prerequisites
+
+- Android Studio
+- Android SDK
+- Basic understanding of Java and Android development
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/music-player.git
